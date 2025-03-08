@@ -1,0 +1,10 @@
+flask
+werkzeug
+langchain
+python-dotenv
+chromadb
+pypdf
+tiktoken
+unstructured
+langchain-groq
+-e .
